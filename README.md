@@ -1,2 +1,7 @@
 # maize-desease-classification
 Assessment of maize disease using different machine learning algorithms
+3
+
+Plants have become a vital source of energy, and they are a critical piece in the puzzle of resolving the global warming crisis. Plant diseases, on the other hand, are jeopardizing the livelihood of this vital supply.
+The study's goal is to identify three diseases in maize plant leaves using image processing, feature extraction, and machine learning by comparing the best results of the models. This study employs two research approaches. The first is a systematic literature review, the purpose of which is to identify the best features discovered in the literature that may be used to develop a model for plant disease categorization. The second is an experimental technique, the main purpose of which is to get the most accurate categorization of diseases using machine learning algorithms such as Random Forest (RF), K Nearest Neighbour (KNN) and Support Vector Machine (SVM).
+The RF classifier outperforms the KNN and SVM classifier when it comes to disease classification. When it comes to HSV images, the precision of the The RF, KNN and SVM are 81, 69 and 65 percent, respectively. In the instance of RGB images, the RF, KNN and SVM accuracy is 80, 68 and 63 percent, respectively.Similarly, when the hyper-parameters are tuned the accuracies of RF, SVM and KNN increased to 81%, 78% and 71%, respectively. When using the colour space HSV, the classification model's performance improves when compared to RGB and Lab pictures
